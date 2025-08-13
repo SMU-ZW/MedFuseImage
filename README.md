@@ -1,8 +1,5 @@
 ## Code for [MedFuse](https://arxiv.org/abs/2207.07027): Multi-modal fusion and benchmarking with clinical time-series and chest X-ray images
 
-
-Table of contents
-=================
 # MedFuse image only branch
 
 CXR only part from MedFuse for MIMIC-IV CXR.
