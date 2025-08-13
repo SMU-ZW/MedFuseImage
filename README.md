@@ -1,4 +1,4 @@
-## Code for [MedFuse](https://arxiv.org/abs/2207.07027): Multi-modal fusion and benchmarking with clinical time-series and chest X-ray images
+## Original Code from [MedFuse](https://arxiv.org/abs/2207.07027): Multi-modal fusion and benchmarking with clinical time-series and chest X-ray images
 
 # MedFuse image only branch
 
